@@ -1,3 +1,3 @@
-# Games
-This is a place to publish my game making practices.
+# Ruby Games
+My Ruby game making practices.
 
